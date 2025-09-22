@@ -8,8 +8,8 @@ This script will also backup and deploy your custom configuration files.
 ## 📂 Project Structure
 ```
 TermuxMP/
-├── mpd.conf      # Minimalist MPD configuration
-├── cava.conf     # Minimalist CAVA configuration
+├── mpd.conf      # My MPD configuration
+├── cava.conf     # My CAVA configuration
 ├── setup.sh      # Installer script
 └── backups/      # Backup folder (auto-created)
 ```
@@ -20,7 +20,6 @@ TermuxMP/
 
 1. Clone or copy this repo into your Termux storage:
    ```bash
-   cd ~/storage/shared/backups/
    git clone https://github.com/yourusername/TermuxMP.git
    cd TermuxMP
    ```
@@ -78,7 +77,6 @@ When you run `setup.sh`, you will get a menu:
 ## ✨ Features
 - Fully automated Termux setup.  
 - Backup & restore system for configs.  
-- Minimalist `mpd.conf` and `cava.conf`.  
 - Works out of the box with PulseAudio.  
 
 ---

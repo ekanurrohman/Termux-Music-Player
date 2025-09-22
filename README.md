@@ -20,8 +20,8 @@ TermuxMP/
 
 1. Clone or copy this repo into your Termux storage:
    ```bash
-   git clone https://github.com/yourusername/TermuxMP.git
-   cd TermuxMP
+   git clone github.com/ekanurrohman/Termux-Music-Player.git
+   cd Termux-Music-Player
    ```
 
 2. Make the setup script executable:

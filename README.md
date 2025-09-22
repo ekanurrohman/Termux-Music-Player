@@ -81,8 +81,6 @@ When you run `setup.sh`, you will get a menu:
 
 ---
 
-## 📸 Preview
-
 Run `ncmpcpp` + `cava` inside `tmux` for a full music + visualizer experience in Termux 🎶  
 ```
 tmux new -s music
@@ -93,5 +91,3 @@ cava
 
 ---
 
-## 📜 License
-MIT License © 2025 YourName
